@@ -1,5 +1,14 @@
 .App {
-  text-align: center;
+  text-align: left;
+  
+}
+.modified-checkbox{
+  width: 25px;
+  height: 25px;
+}
+.modified-radio{
+  width: 18px;
+  height: 18px;
 }
 
 .App-logo {
